@@ -1,13 +1,8 @@
-Day 1-Linux basic commands practiced
-commands praticed:
-pwd
-ls
-cd
-mkdir
-touch
-rm
-cat
-whoami
-uname
-apt update
-praticed using ubuntu container in play with docker
+# Day1 - Git Basics
+Today I learned:
+- What is Git
+- What is GitHub
+- Git init
+- Git add
+- Git commit
+Practice done using GitHub Codespaces.
