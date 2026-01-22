@@ -1,0 +1,5 @@
+Day 4 - Linux Hands-on Practice
+- Practiced Linux advanced commands: ls
+- la, mkdir, rm, cp, mv .
+- practiced permissions and ownership using chmod and chown.
+- Created project directories and sample files for CI/CD workflow.
