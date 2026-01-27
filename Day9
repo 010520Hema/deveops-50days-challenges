@@ -1,0 +1,14 @@
+## Day 9 – Linux Networking Basics
+
+### Topics Covered:
+- Checking IP address
+- Network connectivity using ping
+- Checking open ports
+- Testing URLs using curl
+- Basic DNS resolution
+
+### Hands-on:
+- Verified system IP
+- Tested connectivity to external servers
+- Checked listening ports
+- Used curl for HTTP requests
