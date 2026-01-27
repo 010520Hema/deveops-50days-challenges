@@ -1,0 +1,13 @@
+## Day 8 - Linux Services & Processes
+
+### Topics Covered:
+- Linux processes and monitoring
+- Using ps and top commands
+- Understanding PID
+- Managing services using systemctl
+
+### Hands-on:
+- Checked running processes
+- Started and stopped services
+- Learned difference between process and service
+
