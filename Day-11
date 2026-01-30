@@ -1,0 +1,14 @@
+README.md(Day-11)
+## Day 11 – SSH & Remote Server Access
+
+### Topics Covered:
+- Secure remote access using SSH
+- SSH key generation
+- Passwordless authentication
+- Secure file transfer using scp
+
+### Hands-on:
+- Generated SSH key pairs
+- Practiced SSH commands
+- Understood remote server access flow
+
