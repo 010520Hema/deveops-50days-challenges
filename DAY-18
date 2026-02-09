@@ -1,0 +1,12 @@
+## Day 18 – Jenkins Pipeline (Jenkinsfile)
+
+### Topics Covered:
+- Jenkins Pipeline basics
+- Pipeline as Code
+- Jenkinsfile syntax
+- Difference between freestyle and pipeline jobs
+
+### Hands-on:
+- Created Jenkinsfile
+- Configured Jenkins pipeline job
+- Executed multi-stage pipeline
