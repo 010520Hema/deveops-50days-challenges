@@ -1,0 +1,11 @@
+## Day 14 – Docker Volumes & Data Persistence
+
+### Topics Covered:
+- Docker volumes
+- Data persistence in containers
+- Difference between container storage and volumes
+
+### Hands-on:
+- Created Docker volume
+- Mounted volume to nginx container
+- Verified data persistence after container restart
