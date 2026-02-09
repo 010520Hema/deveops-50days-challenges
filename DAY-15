@@ -1,0 +1,15 @@
+## Day 15 – Docker Networking & Port Mapping
+
+### Topics Covered:
+- Introduction to Docker networking
+- Port mapping between host and container
+- How containers communicate with the outside world
+- Importance of exposing application ports
+
+### Hands-on:
+- Ran nginx container with port mapping
+- Verified running containers using docker ps
+- Accessed container application through browser
+
+### Key Learning:
+Docker networking allows containers to communicate and port mapping helps expose container services to external users.
