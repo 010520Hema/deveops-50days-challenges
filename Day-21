@@ -1,0 +1,15 @@
+## Day 21 – Automating Docker Build with Jenkins
+
+### Topics Covered:
+- Jenkins pipeline automation
+- Integrating Jenkins with GitHub
+- Automating Docker image builds
+
+### Hands-on:
+- Updated Jenkinsfile for Docker image build
+- Configured Jenkins pipeline to pull code from GitHub
+- Built Docker image automatically using Jenkins
+- Verified created Docker image in the environment
+
+### Key Learning:
+Jenkins pipelines can automate Docker image builds, making the CI/CD workflow faster and more reliable.
