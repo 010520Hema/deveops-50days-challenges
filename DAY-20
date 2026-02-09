@@ -1,0 +1,15 @@
+## Day 20 – Mini CI/CD Project Setup
+
+### Topics Covered:
+- Introduction to mini CI/CD project workflow
+- Understanding GitHub → Jenkins → Docker pipeline
+- Basics of containerizing an application
+
+### Hands-on:
+- Created a simple HTML application
+- Wrote a Dockerfile to containerize the app
+- Structured project files for CI/CD pipeline
+- Uploaded project to GitHub repository
+
+### Project Goal:
+Build a simple CI/CD pipeline where Jenkins pulls code from GitHub, builds a Docker image, and runs the application automatically.
