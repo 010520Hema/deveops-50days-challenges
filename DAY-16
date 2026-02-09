@@ -1,0 +1,12 @@
+## Day 16 – Jenkins CI/CD Introduction
+
+### Topics Covered:
+- CI/CD concepts
+- Jenkins introduction
+- Running Jenkins using Docker
+- Creating first Jenkins job
+
+### Hands-on:
+- Launched Jenkins container
+- Accessed Jenkins UI
+- Created and ran a freestyle job
