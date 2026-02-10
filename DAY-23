@@ -1,0 +1,11 @@
+## Day 23 – Pipeline Optimization
+
+### Topics Covered:
+- Jenkins pipeline cleanup strategies
+- Versioned Docker image builds
+- Pipeline optimization
+
+### Hands-on:
+- Added cleanup stage in Jenkins pipeline
+- Implemented versioned Docker image tagging
+- Improved deployment workflow
