@@ -1,0 +1,11 @@
+## Day 35 – Terraform EC2 Provisioning
+
+### Topics Covered:
+- Terraform configuration file
+- AWS provider setup
+- Infrastructure provisioning
+
+### Hands-on:
+- Created main.tf
+- Initialized Terraform
+- Provisioned EC2 using code
