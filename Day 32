@@ -1,0 +1,11 @@
+## Day 32 – AWS IAM
+
+### Topics Covered:
+- IAM basics
+- User and policy management
+- Role-based access control
+
+### Hands-on:
+- Created IAM user
+- Attached EC2 & S3 policies
+- Managed cloud permissions
