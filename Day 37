@@ -1,0 +1,11 @@
+## Day 37 – Terraform Remote Backend
+
+### Topics Covered:
+- Remote backend configuration
+- S3 state storage
+- State locking concept
+
+### Hands-on:
+- Created S3 bucket
+- Migrated Terraform state to S3
+- Reinitialized Terraform
