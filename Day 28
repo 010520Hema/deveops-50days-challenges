@@ -1,0 +1,11 @@
+## Day 28 – Cloud Deployment on AWS
+
+### Topics Covered:
+- Deploying apps on AWS EC2
+- Docker cloud deployment
+- Public IP access
+
+### Hands-on:
+- Cloned project in EC2
+- Built Docker image
+- Deployed container in cloud
