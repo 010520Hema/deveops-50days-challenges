@@ -1,0 +1,11 @@
+## Day 27 – Docker Setup in AWS EC2
+
+### Topics Covered:
+- Installing Docker on cloud server
+- Docker service management
+- Running containers in EC2
+
+### Hands-on:
+- Installed Docker in EC2
+- Configured Docker service
+- Ran test container
