@@ -1,0 +1,11 @@
+## Day 33 – AWS CLI Setup
+
+### Topics Covered:
+- AWS CLI installation
+- IAM credential configuration
+- Managing AWS via terminal
+
+### Hands-on:
+- Installed AWS CLI in EC2
+- Configured IAM credentials
+- Listed S3 buckets via CLI
